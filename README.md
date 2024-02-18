@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning <b>Blockchain, SaaS development, etc.</b>
 
-- 👨‍💻 All of my projects are available at [adnansal.im/projects](adnansal.im/projects)
+- 👨‍💻 All of my projects are available at [adnansal.im/projects](https://adnansal.im/projects)
 
-- 📝 I regularly write articles on [adnansal.im/blogs](adnansal.im/blogs)
+- 📝 I regularly write articles on [adnansal.im/blogs](https://adnansal.im/blogs)
 
 - 💬 Ask me about **anything I've got an answer for.** 👇
 
 - 📫 Say hello [**hello@adnansal.im**](mailto:hello@adnansal.im)
 
-- 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
+- 📄 Know about my experiences [adnansal.im/about](https://adnansal.im/about)
 
 <br><hr>
 
