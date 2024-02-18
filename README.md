@@ -12,20 +12,21 @@
 - 📫 Say hello [**hello@adnansal.im**](mailto:hello@adnansal.im)
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
-<hr>
+
+<br><hr><br>
 
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<hr>
+<br><hr><br>
 
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<hr>
+<br><hr><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=1da1f2&style=for-the-badge" alt="adnanxsalim" /> </p>
 
@@ -39,7 +40,7 @@
 <a href="https://medium.com/@adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="adnanxsalim" /></a>
 </p>
 
-<hr>
+<br><hr><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
@@ -67,7 +68,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p>
 
-<hr>
+<br><hr><br>
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/adnansalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adnansalim" /></a></p>
