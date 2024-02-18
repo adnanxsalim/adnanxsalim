@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
 
-### Blogs posts
+### Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -39,3 +39,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en" alt="adnanxsalim" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanxsalim&theme=dark" alt="adnanxsalim" /></p>
+
+[![adnanxsalim's GitHub | Stats](https://stats.quine.sh/adnanxsalim/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=adnanxsalim)
