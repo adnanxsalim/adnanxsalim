@@ -11,13 +11,6 @@
 
 <br><hr>
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br><hr>
-
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
