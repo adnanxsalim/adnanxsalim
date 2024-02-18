@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Adnan Salim</h1>
 <h3 align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</h3>
 <hr>
-- 🌱 I’m currently learning **Blockchain, SaaS development, etc.**
+- 🌱 I’m currently learning <b>Blockchain, SaaS development, etc.</b>
 
 - 👨‍💻 All of my projects are available at [adnansal.im/projects](adnansal.im/projects)
 
@@ -13,15 +13,20 @@
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
 <hr>
+
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 <hr>
+
 ### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=1da1f2&style=for-the-badge" alt="adnanxsalim" /> </p>
 
 <h3 align="left">Let's connect:</h3>
@@ -33,7 +38,9 @@
 <!-- MEDIUM -->
 <a href="https://medium.com/@adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="adnanxsalim" /></a>
 </p>
+
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
 <!-- HTML -->
@@ -57,7 +64,12 @@
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="react"/> </a>
 </p>
+
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p><br><br>
+
+<hr>
+
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/adnansalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adnansalim" /></a></p>
