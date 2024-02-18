@@ -1,17 +1,13 @@
 <h1 align="left">Hey, I'm Adnan Salim 👋</h1>
 <p align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</p><br>
 
-- 🌱 I’m currently learning <b>Blockchain, SaaS development, etc.</b>
+- 👨‍💻 See my projects at: [adnansal.im/projects](https://adnansal.im/projects)
 
-- 👨‍💻 All of my projects are available at [adnansal.im/projects](https://adnansal.im/projects)
+- 📝 Read my articles on: [adnansal.im/blogs](https://adnansal.im/blogs)
 
-- 📝 I regularly write articles on [adnansal.im/blogs](https://adnansal.im/blogs)
+- 📫 Say hello: [hello@adnansal.im](mailto:hello@adnansal.im)
 
-- 💬 Ask me about **anything I've got an answer for.** 👇
-
-- 📫 Say hello [**hello@adnansal.im**](mailto:hello@adnansal.im)
-
-- 📄 Know about my experiences [adnansal.im/about](https://adnansal.im/about)
+- 📄 About me: [adnansal.im/about](https://adnansal.im/about)
 
 <br><hr>
 
