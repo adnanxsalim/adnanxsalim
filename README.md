@@ -1,5 +1,5 @@
 <h1 align="left">Hey, I'm Adnan Salim</h1>
-<i align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</i><br>
+<p align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</p><br>
 
 - 🌱 I’m currently learning <b>Blockchain, SaaS development, etc.</b>
 
