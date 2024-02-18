@@ -66,7 +66,7 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="react"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p> -->
 
 <br><hr>
 
