@@ -67,9 +67,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p><br><br>
-
-<hr>
-
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/adnansalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adnansalim" /></a></p>
+<p><a href="https://www.buymeacoffee.com/adnansalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adnansalim" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p>
