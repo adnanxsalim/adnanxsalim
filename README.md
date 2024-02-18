@@ -17,6 +17,11 @@
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
 
+### :zap: <b> Recent Activity </b>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
