@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=1da1f2&style=for-the-badge" alt="adnanxsalim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adnanxsalim" target="blank"><img src="https://img.shields.io/twitter/follow/adnanxsalim?logo=twitter&style=for-the-badge" alt="adnanxsalim" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain, SaaS development, etc.**
 
 - 👨‍💻 All of my projects are available at [adnansal.im/projects](adnansal.im/projects)
@@ -17,20 +15,23 @@
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
 
-### :zap: <b> Recent Activity </b>
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### Recent Blogs
+### 📝 Recent Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
-<a href="https://twitter.com/adnanxsalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnanxsalim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adnan-a-salim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-a-salim" height="30" width="40" /></a>
-<a href="https://medium.com/@adnanxsalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adnanxsalim" height="30" width="40" /></a>
+<!-- TWITTER -->
+<a href="https://twitter.com/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adnanxsalim" /></a>
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/adnan-a-salim/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-a-salim" /></a>
+<!-- MEDIUM -->
+<a href="https://medium.com/@adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="adnanxsalim" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
