@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Adnan Salim</h1>
 <h3 align="center">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=0ac247&style=flat" alt="adnanxsalim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxsalim&label=Profile%20Visits&color=1da1f2&style=for-the-badge" alt="adnanxsalim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adnanxsalim" target="blank"><img src="https://img.shields.io/twitter/follow/adnanxsalim?logo=twitter&style=for-the-badge" alt="adnanxsalim" /></a> </p>
 
