@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Adnan Salim</h1>
 <h3 align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</h3>
 <hr>
-<i>
+<ul>
 - 🌱 I’m currently learning <b>Blockchain, SaaS development, etc.</b>
 
 - 👨‍💻 All of my projects are available at [adnansal.im/projects](adnansal.im/projects)
@@ -13,7 +13,7 @@
 - 📫 Say hello [**hello@adnansal.im**](mailto:hello@adnansal.im)
 
 - 📄 Know about my experiences [adnansal.im/about](adnansal.im/about)
-</i>
+</ul>
 <hr>
 
 ### ⚡ Recent Activity
