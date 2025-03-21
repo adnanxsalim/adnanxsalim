@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Adnan Salim 👋</h1>
 <p align="left">I'm a tinkerer from India. I build ideas, play with them, invest in them & donate to them. I'm also a passionate learner of things that interest me or make me curious.</p><br>
 
-- 👨‍💻 See my projects at: [adnansal.im/projects](https://adnansal.im/projects)
+- 👨‍💻 See my work at: [adnansal.im/work](https://adnansal.im/work)
 
 - 📝 Read my articles on: [adnansal.im/blogs](https://adnansal.im/blogs)
 
@@ -12,7 +12,6 @@
 <br><hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
 <!-- CSS -->
@@ -29,8 +28,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
 <!-- PYTHON -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
-<!-- REACT -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
 <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="react"/> </a>
 </p>
