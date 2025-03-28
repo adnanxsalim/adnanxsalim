@@ -3,7 +3,7 @@
 
 - 👨‍💻 See my work at: [adnansal.im/work](https://adnansal.im/work)
 
-- 📝 Read my articles on: [adnansal.im/blogs](https://adnansal.im/blogs)
+- 📝 Read my articles on: [adnansal.im/blog](https://adnansal.im/blog)
 
 - 📫 Say hello: [hello@adnansal.im](mailto:hello@adnansal.im)
 
