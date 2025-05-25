@@ -70,5 +70,4 @@
 <br><hr>
 
 <h3 align="left">Support Me:</h3>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D11FHXSB)
 <p><a href="https://ko-fi.com/D1D11FHXSB"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="ko-fi: adnansalim" /></a></p>
