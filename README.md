@@ -70,4 +70,5 @@
 <br><hr>
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/adnansalim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adnansalim" /></a></p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D11FHXSB)
+<p><a href="https://ko-fi.com/D1D11FHXSB"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="ko-fi: adnansalim" /></a></p>
