@@ -1,25 +1,13 @@
-<h1 align="left">Hey, I'm Adnan Salim 👋</h1>
-<p align="left">I'm from Kozhikode, Kerala, India. I’m a B. Tech. graduate, majored in Computer Science.</p>
-<p align="left">I work as a Cloud and DevOps Intern at ipsr solutions ltd. I’ve completed several projects in this domain, including various web hosting methods, AWS services, and DevOps tools such as Ansible and Docker.</p>
-<p align="left">Apart from that, I've been fiddling with things for the last 5+ years.</p>
-<p align="left">My current skill stack:</p>
-<ul>
-  <li>DevOps (AWS, Linux System Administration, Ansible, Scripting, etc)</li>
-  <li>Development (self-taught; Next.js, Blockchain, etc)</li>
-  <li>Design (self-taught; using Figma)</li>
-  <li>Marketing (LinkedIn Certified Digital Marketing Specialist)</li>
-  <li>Trading (Stocks and Crypto)</li>
-</ul>
-
+<h1 align="left">Hey 👋</h1>
+<p align="left">I’m Adnan Salim, a recent Computer Science graduate from Kerala, India.</p>
+<p align="left">I’m a Full-Stack Engineer with personal project experience across Next.js, Node.js, Javascript, Typescript, Python, SQL, Blockchain, CLI tools, Gen AI & Automation, and more.</p>
+<p align="left">I’ve got experience as a System Administrator Intern, and also as a Linux, Cloud & DevOps Trainee.</p>
+<p align="left">I’m currently in Dubai, and I’m open to opportunities.</p>
 <hr>
 
-👨‍💻 See my work at: [adnansal.im/work](https://adnansal.im/work)
-
-📝 Read my articles on: [adnansal.im/blog](https://adnansal.im/blog)
+👨‍💻 My portfolio(kinda): [adnansal.im/work](https://adnansalim.notion.site/Adnan-Salim-Full-Stack-Engineer-280df01c00c680f68106ea7600ad7176/)
 
 📫 Say hello: [hello@adnansal.im](mailto:hello@adnansal.im)
-
-📄 About me: [adnansal.im/about](https://adnansal.im/about)
 
 <hr>
 
@@ -58,14 +46,12 @@
 <h3 align="left">Let's connect:</h3>
 <p align="left">
 <!-- TWITTER -->
-<a href="https://twitter.com/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adnanxsalim" /></a>
+<a href="https://x/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adnanxsalim" /></a>
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/adnan-a-salim/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-a-salim" /></a>
 <!-- MEDIUM -->
 <a href="https://medium.com/@adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="adnanxsalim" /></a>
 </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanxsalim&show_icons=true&theme=dark&title_color=ededed&text_color=ededed&locale=en&layout=compact" alt="adnanxsalim" /></p> -->
 
 <br><hr>
 
