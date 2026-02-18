@@ -52,7 +52,7 @@
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/adnan-a-salim/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adnan's LinkedIn Account" /></a>
 <!-- TWITTER -->
-<a href="https://x/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Adnan's X Account" /></a>
+<a href="https://x.com/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Adnan's X Account" /></a>
 </p>
 
 <hr>
