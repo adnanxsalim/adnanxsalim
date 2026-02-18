@@ -1,11 +1,13 @@
-<h1 align="left">Hey 👋</h1>
-<p align="left">I’m Adnan Salim, a recent Computer Science graduate from Kerala, India.</p>
-<p align="left">I’m a Full-Stack Engineer with personal project experience across Next.js, Node.js, Javascript, Typescript, Python, SQL, Blockchain, CLI tools, Gen AI & Automation, and more.</p>
-<p align="left">I’ve got experience as a System Administrator Intern, and also as a Linux, Cloud & DevOps Trainee.</p>
-<p align="left">I’m currently in Dubai, and I’m open to opportunities.</p>
+<h1 align="left">👋 Hey, I'm Adnan Salim</h1>
+<p align="left">I’m a Computer Science graduate from Kerala, India, and I'm currently based in Dubai</p>
+<p align="left">I’m a Full-Stack Engineer with experience across Next.js, Node.js, Javascript, Typescript, Python, SQL, Blockchain, CLI tools, Cloud & DevOps, Gen AI & Automation, and more.</p>
 <hr>
 
-👨‍💻 My portfolio(kinda): [adnansal.im/work](https://adnansalim.notion.site/Adnan-Salim-Full-Stack-Engineer-280df01c00c680f68106ea7600ad7176/)
+💼 My portfolio: [adnansal.im](https://adnansal.im)
+
+👨‍💻 My work: [adnansal.im/work](https://adnansal.im/work)
+
+📝 My blog: [adnansal.im/blog](https://adnansal.im/blog)
 
 📫 Say hello: [hello@adnansal.im](mailto:hello@adnansal.im)
 
@@ -45,15 +47,15 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<!-- TWITTER -->
-<a href="https://x/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="adnanxsalim" /></a>
+<!-- INSTAGRAM -->
+<a href="https://instagram.com/adnansal.im" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Adnan's Instagram Account" /></a>
 <!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/adnan-a-salim/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-a-salim" /></a>
-<!-- MEDIUM -->
-<a href="https://medium.com/@adnanxsalim" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="adnanxsalim" /></a>
+<a href="https://www.linkedin.com/in/adnan-a-salim/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adnan's LinkedIn Account" /></a>
+<!-- TWITTER -->
+<a href="https://x/adnanxsalim" target="blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Adnan's X Account" /></a>
 </p>
 
-<br><hr>
+<hr>
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://ko-fi.com/D1D11FHXSB"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="ko-fi: adnansalim" /></a></p>
